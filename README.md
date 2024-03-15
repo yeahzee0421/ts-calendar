@@ -1,6 +1,10 @@
 # 📅ts-calendar
-Typescript와 zustand, date-fns를 사용한 캘린더 컴포넌트 구현
-![image](https://github.com/yeahzee0421/ts-calendar/assets/107865510/b8d46c09-8db2-4c87-9e09-7962a6825512)
+Typescript와 zustand, date-fns를 사용한 캘린더 컴포넌트 구현<br />
+머랭 프로젝트에서 구현한 기능 중 하나입니다.
+🧑‍💻[머랭 FE Repo](https://github.com/keepgoingLikelion/meringue-FE)
+
+![image](https://github.com/yeahzee0421/ts-calendar/assets/107865510/2f518360-3d07-4506-b011-c0ac52fe4fb4)
+
 
 ## ⚒️기능
 - 캘린더(달력 기능)
