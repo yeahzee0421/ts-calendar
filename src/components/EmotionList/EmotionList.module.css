@@ -1,0 +1,23 @@
+.wrapper{
+    height: 53px;
+    width: 330px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.button{
+    height: 36px;
+    width: 36px;
+    background-color: transparent;
+    border: none;
+    text-decoration-line: none;
+    text-decoration: none;
+}
+.likedPostCount{
+    margin-top: 15px;
+}
+.count{
+    color: #51372B;
+    font-weight: 300;
+    margin-left: 14px;
+}

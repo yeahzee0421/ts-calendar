@@ -1,0 +1,18 @@
+.themeHappy{
+    background-color: var(--yellow-color);
+}
+.themeSad{
+    background-color: var(--blue-color);
+}
+.themeAngry{
+    background-color: var(--red-color);
+}
+.themeUpset{
+    background-color: var(--orange-color);
+}
+.themeSimsim{
+    background-color: var(--purple-color);
+}
+.themeTired{
+    background-color: var(--green-color);
+}
